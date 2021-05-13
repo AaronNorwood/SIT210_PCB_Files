@@ -1,0 +1,91 @@
+{
+  "uuid": "be9d3fe8a0489c92d59a025693ed17df",
+  "path": "Offline/Task10.1PCBDesign",
+  "name": "Task10.1PCBDesign",
+  "content": "",
+  "created_at": "2021-05-13 13:55:41",
+  "updated_at": "2021-05-13 14:48:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "61be124cb3ed2643eaba022fbbafed0b",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0b20493762aa46eaab9651966a080c6c": 1,
+        "f8daee37e5824486976a3f5f04ecb3b6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DHT11",
+          1,
+          "SENSOR-TH_DHT11",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C117051",
+            "BOM_Manufacturer": "Aosong (Guangzhou) Elec",
+            "BOM_Manufacturer Part": "DHT11",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "08631d89f1134ac8bb73c3bef2888e81",
+            "uuid": "0b20493762aa46eaab9651966a080c6c"
+          }
+        ],
+        [
+          "GY-302 BH1750",
+          1,
+          "GY-302 BH1750",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "3b90db24a38244c996048881d1a575a1",
+            "uuid": "f8daee37e5824486976a3f5f04ecb3b6"
+          }
+        ]
+      ],
+      "updateTime": 1620879397,
+      "createTime": 1620878157,
+      "histories": [],
+      "created_at": "2021-05-13 13:55:57",
+      "updated_at": "2021-05-13 14:16:37"
+    },
+    {
+      "uuid": "b58d68824435c9010aa52bc01fe52e33",
+      "puuid": "be9d3fe8a0489c92d59a025693ed17df",
+      "title": "PCB_Task10.1PCBDesign",
+      "filename": "PCB_Task10.1PCBDesign.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3b90db24a38244c996048881d1a575a1": 1,
+        "08631d89f1134ac8bb73c3bef2888e81": 1
+      },
+      "BOM": [],
+      "updateTime": 1620881306,
+      "createTime": 1620880522,
+      "histories": [],
+      "created_at": "2021-05-13 14:35:22",
+      "updated_at": "2021-05-13 14:48:26"
+    }
+  ],
+  "sort": [],
+  "title": "Task10.1PCBDesign",
+  "foldername": "Task10.1PCBDesign",
+  "schfilename": "Task10.1PCBDesign.json",
+  "schfilemtime": 1620879397208
+}
